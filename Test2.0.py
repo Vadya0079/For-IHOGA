@@ -1,5 +1,5 @@
-#Для данных в строках PYTHON3
-import xlrd
+#Для данных в строках PYTHON3(ха-ха-ха)
+mport xlrd
 
 DATA = []
 DATA1 = []
